@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv('../data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
+df = pd.read_csv('../Sdata/WA_Fn-UseC_-Telco-Customer-Churn.csv')
 
 # Look at the first 5 rows
 print(df.head())
