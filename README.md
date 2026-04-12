@@ -3,7 +3,7 @@
 A machine learning application that predicts customer churn for a telecommunications company using logistic regression and an interactive Streamlit dashboard.
 
 ## Live Demo
-[Coming soon - Streamlit Community Cloud deployment]
+[Live Dashboard](https://churnproject-pxsbv3q6yny5zt96rdkagm.streamlit.app/)
 
 ## Quick Start
 To launch the dashboard immediately after cloning and installing dependencies:
